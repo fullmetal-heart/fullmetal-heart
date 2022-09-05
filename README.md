@@ -18,7 +18,7 @@ Hello there! I'm Gaurav Choudhary
 👨‍💻 I enjoy Sports Programming and Problem Solving 👨‍💻
 <br>
 <br>
-📪 Connect with me at <a href = "https://www.linkedin.com/in/gaurav-choudhary-9b91b019a/"><img src="https://img.shields.io/badge/-Namit%20Goyal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> or mail me at <a href = "mailto:gauravchoudhary1047@gmail.com"><img src="https://img.shields.io/badge/shreyasmishra12345@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>. 📭
+📪 Connect with me at <a href = "https://www.linkedin.com/in/gaurav-choudhary-9b91b019a/"><img src="https://img.shields.io/badge/-Gaurav%20Choudhary-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> or mail me at <a href = "mailto:gauravchoudhary1047@gmail.com"><img src="https://img.shields.io/badge/gauravchoudhary1047@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>. 📭
 
 
 </p>
