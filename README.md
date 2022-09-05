@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fullmetal-heart&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav choudhary" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=NamitGoyal00&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav choudhary" /> </p>
 <h1 align ="center">
 Hello there! I'm Gaurav Choudhary
 </h1>
